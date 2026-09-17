@@ -1,29 +1,20 @@
 "use strict";
 
-const CACHE = "pinout-v2";
+const CACHE = "pinout-v8";
 const NETWORK_TIMEOUT = 400;
 
 const PRECACHE = [
     ".",
-    "datanoise-picoadk.svg",
-    "datanoisetv-picoadk.html",
+    "esp32-board-top.svg",
+    "esp32-icon-192.png",
+    "esp32-icon-48.png",
+    "esp32-icon-512.png",
+    "favicon.png",
     "index.html",
     "manifest.json",
-    "picow.html",
-    "pimoroni-pico-lipo.html",
-    "pimoroni-pico-lipo.svg",
-    "pimoroni-tiny-2040.html",
-    "pimoroni-tiny-2040.svg",
-    "pinout-logo.png",
+    "og.png",
     "pinout.css",
-    "pinout.js",
-    "pipipi-icon-192.png",
-    "pipipi-icon-48.png",
-    "pipipi-icon-512.png",
-    "raspberry-pi-pico-underside.svg",
-    "raspberry-pi-pico.svg",
-    "raspberry-pi-picow-underside.svg",
-    "raspberry-pi-picow.svg"
+    "pinout.js"
 ];
 
 self.addEventListener("install", (event) => {

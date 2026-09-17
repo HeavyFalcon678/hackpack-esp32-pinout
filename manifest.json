@@ -1,25 +1,25 @@
 {
-  "name": "Raspberry Pi Pico Pinout",
-  "short_name": "Pico",
-  "description": "An interactive, accessible and beautiful GPIO Pinout guide for the Raspberry Pi Pico.",
+  "name": "ESP32 GPIO Pinout",
+  "short_name": "ESP32",
+  "description": "An editable GPIO pinout reference for ESP32 dev boards.",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
-  "background_color": "#fff",
+  "background_color": "#151515",
   "theme_color": "#002b36",
   "icons": [
     {
-      "src": "pipipi-icon-48.png",
+      "src": "esp32-icon-48.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "pipipi-icon-192.png",
+      "src": "esp32-icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "pipipi-icon-512.png",
+      "src": "esp32-icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
