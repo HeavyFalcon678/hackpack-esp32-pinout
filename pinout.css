@@ -150,7 +150,7 @@ td, th {
     border-color: #586e75;
     background-color: #586e7533;
     padding: 0 5px;
-    min-width: 70px;
+    min-width: 60px;
 }
 .labels.left td {border-width:0 0 0 4px;}
 .labels.right td {border-width:0 4px 0 0;}
